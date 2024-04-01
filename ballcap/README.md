@@ -1,7 +1,8 @@
 # Ballcap of Atsugi Era
 VFA-192 was based in CVW-5 at NAF Atsugi Japan until 2009. During that time, the Squadron's logo was modified to have a dragon wrapped around the Asian Pacific. I am pictured below in the ballcap. 
 
-![62DD64A4-7397-46B7-922B-4E3FF70DB540](https://github.com/f15hb0wn/sshwfgd-art/assets/18059024/0c4b157e-553f-4963-a67f-2723fb7fb807)
+![in_ballcap](https://github.com/f15hb0wn/sshwfgd-art/assets/18059024/c1e68850-3ad5-4942-8157-281267dd97d2)
+
 
 
 ## Licensing
